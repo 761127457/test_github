@@ -1,1 +1,1 @@
-commit
+ssh-keygen -t rsa -C "xxxxx@xxxxx.com"
